@@ -1,7 +1,7 @@
 # Codespaces Practice
 
 **Name:** [Anita Thompson]  
-**Date:** 10/21/2026]
+**Date:** [10/21/2026]
 
 ## Initial Observations
 - What felt straightforward?
